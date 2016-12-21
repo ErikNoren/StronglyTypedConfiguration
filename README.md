@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/github/ErikNoren/StronglyTypedConfiguration?branch=master&svg=true)](https://ci.appveyor.com/project/ErikNoren/stronglytypedconfiguration)
+
 # StronglyTypedConfiguration
 A set of extension methods to make reading app.config or web.config settings using ConfigurationManager easier to use and to read.
 
