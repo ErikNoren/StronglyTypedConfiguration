@@ -31,3 +31,6 @@ I hope this reference code comes in handy to some people who might still be usin
 serve as a model for reducing complexity in business logic. Note that this is not meant for .NET Core which already has the
 ability to deserialize appSetings.json to concrete settings objects by default. It's a big time saver and easier to use since
 settings can be written in JSON and not string-escaped for an app.config or web.config file; it's much more readable.
+
+Erik Noren
+@ErikNoren
