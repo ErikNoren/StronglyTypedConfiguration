@@ -54,6 +54,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Models\ComplexSetting.cs" />
+    <Compile Include="Models\Settings.cs" />
     <Compile Include="SingleValueTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="NullableSingleValueTests.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="MultiValueTests.cs" />
     <Compile Include="MultiValueAlternateDelimeterTests.cs" />
     <Compile Include="MultiValueMiscTests.cs" />
+    <Compile Include="SettingsClassTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
