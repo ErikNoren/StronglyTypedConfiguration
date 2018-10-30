@@ -2,6 +2,8 @@
 
 # StronglyTypedConfiguration
 A set of extension methods to make reading app.config or web.config settings using ConfigurationManager easier to use and to read.
+This is specifically for use with web- or app.config files where a key-value pair is used to store settings. For .NET Core the
+preferred method would be to use IOptions from [Microsoft.Extensions.Options](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.1).
 
 
 Over the years doing code reviews I have seen a lot of abuse of configuration values and how they are used in code. Recently after
